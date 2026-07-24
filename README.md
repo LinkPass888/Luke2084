@@ -6,7 +6,7 @@
 
 ## About Me
 <td>
-<img align="right" width="100" src="https://i.ibb.co/bgSwVc5Q/18252dff027944cb-sticker.gif" />
+<img align="right" width="100" src="https://i.ibb.co/5X4ZfJc1/IMG-5429.gif" />
 
 Hello everyone, I am LinkPass.
 
