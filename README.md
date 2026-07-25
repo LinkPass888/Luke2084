@@ -14,7 +14,7 @@ I love technology, but I'm just a novice who doesn't know anything!
 
 </table>
 
-##![my kodama](https://kodama-sigma.vercel.app/LinkPass888.svg)
+![my kodama](https://kodama-sigma.vercel.app/LinkPass888.svg)
   
 ## Magic Number
 
